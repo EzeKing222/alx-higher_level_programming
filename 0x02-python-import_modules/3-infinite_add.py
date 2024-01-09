@@ -5,3 +5,4 @@ if __name__ == "__main__":
         for i in range(1, len(argv)):
                 xsum += int(argv[i])
         print("{}".format(xsum))
+
